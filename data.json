@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "title": "Build and Deploy an AI-Powered 3D Website Using React",
+      "coverImg": "https://i.ytimg.com/vi/ZqEa8fTxypQ/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ZqEa8fTxypQ?autoplay=1",
+      "id": 1
+    },
+    {
+      "title": "Create an infinite horizontal scroll animation",
+      "coverImg": "https://cruip.com/wp-content/uploads/2023/08/logo-carousel-preview-768x432.png",
+      "videoUrl": "https://www.youtube.com/embed/iLmBy-HKIAw?autoplay=1",
+      "id": 4
+    },
+    {
+      "title": "Subtle, yet Beautiful Scroll Animations",
+      "coverImg": "https://alvarotrigo.com/blog/assets/imgs/2021-12-10/sleepiest-scroll-animation.jpeg",
+      "videoUrl": "https://www.youtube.com/embed/T33NN_pPeNI?autoplay=1",
+      "id": 5
+    },
+    {
+      "title": "True parallax with CSS-only is now possible",
+      "coverImg": "https://i.ytimg.com/vi/Qj0Qx8HpNUo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Qj0Qx8HpNUo?autoplay=1",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "title": "Education",
+      "videos": [
+        {
+          "title": "True parallax with CSS-only is now possible",
+          "coverImg": "https://i.ytimg.com/vi/Qj0Qx8HpNUo/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/Qj0Qx8HpNUo?autoplay=1",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Technology",
+      "videos": [
+        {
+          "title": "Build and Deploy an AI-Powered 3D Website Using React",
+          "coverImg": "https://i.ytimg.com/vi/ZqEa8fTxypQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/ZqEa8fTxypQ?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "Subtle, yet Beautiful Scroll Animations",
+          "coverImg": "https://alvarotrigo.com/blog/assets/imgs/2021-12-10/sleepiest-scroll-animation.jpeg",
+          "videoUrl": "https://www.youtube.com/embed/T33NN_pPeNI?autoplay=1",
+          "id": 5
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "title": "Build and Deploy an AI-Powered 3D Website Using React",
+      "videoUrl": "https://www.youtube.com/embed/ZqEa8fTxypQ?autoplay=1",
+      "time": "27-12-2023, 4:33 PM",
+      "id": 1
+    },
+    {
+      "title": "True parallax with CSS-only is now possible",
+      "videoUrl": "https://www.youtube.com/embed/Qj0Qx8HpNUo?autoplay=1",
+      "time": "27-12-2023, 4:34 PM",
+      "id": 2
+    },
+    {
+      "title": "Subtle, yet Beautiful Scroll Animations",
+      "videoUrl": "https://www.youtube.com/embed/T33NN_pPeNI?autoplay=1",
+      "time": "27-12-2023, 4:34 PM",
+      "id": 3
+    },
+    {
+      "title": "Build and Deploy an AI-Powered 3D Website Using React",
+      "videoUrl": "https://www.youtube.com/embed/ZqEa8fTxypQ?autoplay=1",
+      "time": "27-12-2023, 4:55 PM",
+      "id": 6
+    }
+  ]
+}
